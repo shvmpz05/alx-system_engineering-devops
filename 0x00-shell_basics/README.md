@@ -5,3 +5,5 @@
 4- Script to list more files and hidden ones
 5- Script to list display user and grou ids
 6- Script to create directory in the tmp directory
+7- Script to move that file
+8- Script to delete file
