@@ -8,3 +8,4 @@
 7- Script to move that file
 8- Script to delete file
 9- Script to delete directory
+10-Script to move to previous directory
