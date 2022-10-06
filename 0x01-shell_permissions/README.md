@@ -8,3 +8,4 @@
 7- Script to add multiple permissions part 2
 8- Script to remove all permissions on group and owner
 9- More permission scripts
+10-Copy permissions of other files
