@@ -6,4 +6,4 @@
 5- Script to add execute permission to owner of file
 6- Script to add multiple permissions
 7- Script to add multiple permissions part 2
- 
+8- Script to remove all permissions on group and owner
