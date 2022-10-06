@@ -9,5 +9,4 @@
 8- Script to remove all permissions on group and owner
 9- More permission scripts
 10-Copy permissions of other files
-11-Recursive into directories
-
+11-Recursive into directories and giving permission
